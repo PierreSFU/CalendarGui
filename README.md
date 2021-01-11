@@ -1,3 +1,3 @@
 # StudyScheduler
-Language: Java
+Language: Java<br />
 Description: In a team of 3 we had created a prototype Study Scheduler, in which the user could input the classes they were taking, the credits for that given class and the time                that the classes occured at. The study scheduler would in turn add those time slots to the GUI so the user could visually see the timeslots taken up and would also                fill the GUI with certain time periods the user should be studying for that class. The study scheduler takes an emphasis on studying for assignments/projects worth a              higher percentage of the users grade and with a closer deadline.
